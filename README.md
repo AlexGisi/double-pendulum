@@ -3,6 +3,9 @@ Code for simulation a double pendulum in matlab and visualizing the result.
 
 ![](./img/doublependulum.gif)
 
+# Use
+Load the workspace in doublependulum.mat and run the script doublependulum.m, which creates a csv file with the simuulation result. Run the script simviz.py to visualize the data.
+
 ## Reference
 The pendulum dynamics are based off the derivation in the lecture notes:
 
