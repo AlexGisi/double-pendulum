@@ -1,0 +1,5 @@
+*.asv
+.DS_STORE
+*.mov
+*.csv
+
