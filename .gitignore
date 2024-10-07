@@ -2,4 +2,4 @@
 .DS_STORE
 *.mov
 *.csv
-
+venv/
