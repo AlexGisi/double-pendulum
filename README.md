@@ -2,6 +2,7 @@
 Code for simulating
 - a double pendulum 
 - a cartpole
+
 in matlab and visualizing the result.
 
 ## Double pendulum
