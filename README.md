@@ -11,13 +11,15 @@ in matlab and visualizing the result.
 Load the workspace in doublependulum.mat and run the script doublependulum.m, which creates a csv file with the simuulation result. Run the script simviz.py to visualize the data.
 
 ## Cartpole
-Uncontrolled dynamics
+Edit the script cartpole.m to choose which system (uncontrolled, controlled with handpicked gains, or controlled with LQR gains) to simulate.
+
+Uncontrolled dynamics:
+
 ![](./img/sim.gif)
 
 With LQR controller:
-![](./img/lqr.gif)
 
-Edit the script cartpole.m to choose which system (uncontrolled, controlled with handpicked gains, or controlled with LQR gains) to simulate.
+![](./img/lqr.gif)
 
 ## Reference
 The pendulum dynamics are based off the derivation in the lecture notes:
